@@ -1,9 +1,11 @@
 ### Hi there👋! Shri here
 
-- I am currently a Masters student in Robotics Systems Engineering at RWTH Aachen
+- I recently graduated with a Masters degree in Robotics Systems Engineering from RWTH Aachen
 - I pursued my Master Thesis at BMW Autonomous Driving Campus working on Attention based Image compression.
 - In the past I have worked as a Computer Vision Research Intern at BCAI, Renningen working on Geometric perception problems.
 - My main interests are: Computer Vision, Robotic Perception, AI/ML, Generative AI, Foundational models
+- Feel free to reach out to shrinidhi.bhat@rwth-aachen.de
+- (LinkedIn)[https://www.linkedin.com/in/shrinidhi-bhat-9635a615a/]
 
 <!--
 **Shrinidhibhat87/Shrinidhibhat87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
