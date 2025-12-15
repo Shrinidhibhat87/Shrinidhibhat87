@@ -1,6 +1,7 @@
 ### Hi there👋! Shri here
 
-- I recently graduated with a Masters degree in Robotics Systems Engineering from RWTH Aachen
+- I currently work as a data and AI Consultant.
+- I graduated with a Masters degree in Robotics Systems Engineering from RWTH Aachen
 - I pursued my Master Thesis at BMW Autonomous Driving Campus working on Attention based Image compression.
 - In the past I have worked as a Computer Vision Research Intern at BCAI, Renningen working on Geometric perception problems.
 - My main interests are: Computer Vision, Robotic Perception, AI/ML, Generative AI, Foundational models
