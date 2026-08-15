@@ -1,13 +1,13 @@
 ### Hi, I'm Shri 👋
 
-I'm a Data & AI Consultant embedded in customer teams, turning ambiguous problems into reliable, production-grade solutions.
+I'm a Data & AI Consultant embedded in customer teams, solving ambiguous problems into realiable and production grade solutions.
 
-My work sits where engineering meets delivery—from pipelines and model-serving APIs to agentic workflows, stakeholder alignment, and the last mile into production.
+My work sits where engineering meets delivery, that is from pipelines and model-serving APIs to agentic workflows, stakeholder alignment, and the last mile into production.
 
-#### Side projects
+#### Side/Hobby projects
 
-- **Career Copilot** — an agentic job-search assistant, coming to GitHub soon.
-- [**AI Property Platform**](https://github.com/Shrinidhibhat87/amenity_detector) — amenity detection, human review, and listing generation.
+- **Career Copilot**: An agentic job-search assistant (*will be made public in GitHub soon).
+- [**AI Property Platform**](https://github.com/Shrinidhibhat87/amenity_detector): amenity detection, description generation, human review, and listing (SEO and GEO compatible).
 
 #### Find me
 
