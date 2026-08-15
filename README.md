@@ -1,20 +1,16 @@
-### Hi there👋! Shri here
+### Hi, I'm Shri 👋
 
-- I currently work as a Data and AI Consultant.
+I'm a Data & AI Consultant embedded in customer teams, turning ambiguous problems into reliable, production-grade solutions.
+
+My work sits where engineering meets delivery—from pipelines and model-serving APIs to agentic workflows, stakeholder alignment, and the last mile into production.
+
+#### Side projects
+
+- **Career Copilot** — an agentic job-search assistant, coming to GitHub soon.
+- [**AI Property Platform**](https://github.com/Shrinidhibhat87/amenity_detector) — amenity detection, human review, and listing generation.
+
+#### Find me
+
 - [Personal Portfolio](https://shrinidhibhat87.github.io/)
+- [Writing on Medium](https://medium.com/@shrinidhi.bhat)
 - [LinkedIn](https://www.linkedin.com/in/shrinidhi-bhat-9635a615a/)
-
-<!--
-**Shrinidhibhat87/Shrinidhibhat87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
