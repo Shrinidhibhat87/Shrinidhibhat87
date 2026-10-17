@@ -6,7 +6,7 @@ My work sits where engineering meets delivery, that is from pipelines and model-
 
 #### Side/Hobby projects
 
-- **Career Copilot**: An agentic job-search assistant (*will be made public in GitHub soon).
+- [**Career Copilot**](https://github.com/Shrinidhibhat87/career-copilot): an agentic job search assistant that discovers ATS postings, hard-filters them, scores matches against your CV with fully local LLMs and ranks a digest. An option for cloud LLM is also available via OpenRouter. 
 - [**AI Property Platform**](https://github.com/Shrinidhibhat87/amenity_detector): amenity detection, description generation, human review, and listing (SEO and GEO compatible).
 
 #### Find me
